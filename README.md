@@ -1,4 +1,4 @@
-# REST API SDK for PHP
+# REST API SDK for PHP 
 
 ![Home Image](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
 
